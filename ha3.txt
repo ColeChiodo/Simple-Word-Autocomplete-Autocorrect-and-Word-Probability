@@ -1,0 +1,15 @@
+Court  not found in corpus.
+5 most similar words:
+	 County with distance 2 and probability 0.02
+	 Jury with distance 3 and probability 0.02
+	 jury with distance 3 and probability 0.02
+	 of with distance 4 and probability 0.04
+	 no with distance 4 and probability 0.02
+
+=====================================
+
+County is a complete and correct word as per corpus brown , and its probability is 0.02
+
+=====================================
+
+Goodbye!
